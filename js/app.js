@@ -28,6 +28,8 @@ document.getElementById('boton').addEventListener('click',function(){
         alert('¡Excelente! Has adivinado el número 👏.\nPulsa aceptar para jugar de nuevo 😉');
             
     }else{
-        alert('Oops! Lo siento, no tienes más intentos.');
+        alert('Oops! Lo siento, no has adivinado el número.');
     }
 })
+
+//Nota: no cuenta los intentos.No encuentro el error.
